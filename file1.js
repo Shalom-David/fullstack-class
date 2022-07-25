@@ -1,2 +1,2 @@
 console.log('hello World')
-console.log(hello);
+console.log('hello israel');
